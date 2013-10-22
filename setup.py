@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import sys
 
-version = '1.6dev'
+version = '1.6dev-rubber-1'
 
 install_requires=[
         "polib",
